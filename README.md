@@ -6,4 +6,4 @@ Proyecto: elaboración de una página web en HTML, para el programa Frontend Dev
 - Creación de páginas en github pages
 
 ## Código
-![Texto alternativo](https://imgur.com/a/OUqDW4B)
+![Texto alternativo](https://i.imgur.com/Q7bigm0.png)
